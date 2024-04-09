@@ -1,6 +1,6 @@
 ## :wave: Hey everyone,I'm VasudevDesai 
 Bio | Description
-<!--
+
 Greetings, my self Vasudev Desai 👋🏻
 
 I'm enthusiastic about the opportunity to work together on innovative projects. Feel free to contact me via email at vasudev.desai67@gmail.com or explore further details about my professional pursuits on
