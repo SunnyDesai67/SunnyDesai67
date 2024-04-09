@@ -2,7 +2,7 @@
 Bio | Description
 
 I'm enthusiastic about the opportunity to work together on innovative projects. Feel free to contact me via 
-<a href="vasudev.desai67@gmail.com"> 📧</a> and explore further details about my professional pursuits down below ⬇️ 
+[📧](mailto:vasudev.desai67@gmail.com?subject=[GitHub]%20Source%20Sunny%20Desai) and explore further details about my professional pursuits down below ⬇️ 
 
 With a master's degree under my belt, my enthusiasm lies in the realms of technology and data, as I am committed to tackling intricate challenges. Possessing over 3 years of experience as a software engineer, I boast a commendable track record in the industry.
 
