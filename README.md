@@ -1,4 +1,4 @@
-# :wave: Hey everyone, I'm VasudevDesai.
+# :wave: Hey everyone, I'm Vasudev Desai.
 Bio | Description
 
 I'm enthusiastic about the opportunity to work together on innovative projects. Feel free to contact me via 
