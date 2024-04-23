@@ -60,7 +60,3 @@ Android Studio, Tableau, Excel, Visual Studio Code, Git, JUnit, Selenium, Kafka,
 ## Let's checkout Streak too:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SunnyDesai67)](https://git.io/streak-stats)
-
-## I'm listening to:
-
-[![image of my spotify profile playing](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
