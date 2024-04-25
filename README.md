@@ -4,13 +4,13 @@ Bio | Description
 I'm enthusiastic about the opportunity to work together on innovative projects. Feel free to contact me via 
 [📧](mailto:vasudev.desai67@gmail.com?subject=[GitHub]%20Source%20Sunny%20Desai) and explore further details about my professional pursuits down below ⬇️ 
 
-With a master's degree under my belt, my enthusiasm lies in the realms of technology and data, as I am committed to tackling intricate challenges. Possessing over 3 years of experience as a software engineer, I boast a commendable track record in the industry.
+With a master's degree under my belt, my enthusiasm lies in the realms of technology and data, as I am committed to tackling intricate challenges. Possessing over 3+ years of experience as a software engineer, I boast a commendable track record in the industry.
 
 ## Find me on the web:
 
 <p align="left">
 
-<a href="www.linkedin.com/in/vasudev67" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/vasudev67" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://vasudevdesai.com.s3-website-us-east-1.amazonaws.com/" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/icon-regform.png" alt="" height="30" /></a>
 </p>
 <p align="left">
@@ -51,6 +51,7 @@ Android Studio, Tableau, Excel, Visual Studio Code, Git, JUnit, Selenium, Kafka,
 
 ## **Projects**
 
+- 🔒 Security Authentication - [GitHub Link](https://github.com/SunnyDesai67/Security-Authentication)
 - ⚡ CarCollisionData - [GitHub Link](https://github.com/SunnyDesai67/CarCollisionData)
 - 🌱 BraillyBoard - [GitHub Link](https://github.com/SunnyDesai67/BraillyBoard)
 - 👯 RentACar - [GitHub Link](https://github.com/SunnyDesai67/CarRental_Project1)
