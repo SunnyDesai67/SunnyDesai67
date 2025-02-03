@@ -14,7 +14,7 @@ With a master's degree under my belt, my enthusiasm lies in the realms of techno
 <a href="http://vasudevdesai.com.s3-website-us-east-1.amazonaws.com/" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/icon-regform.png" alt="" height="30" /></a>
 <a href="http://twitter.com/DSunny88" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.instagram.com/mr.sunnydesai67/" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/instagram.png" alt="" height="30" /></a>
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/discord.png" height="30" alt="discord logo"/></a>
+<a href="https://discord.gg/Ygfd9AVqwT" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/discord.png" height="30" alt="discord logo"/></a>
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SunnyDesai67)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SunnyDesai67.SunnyDesai67)
