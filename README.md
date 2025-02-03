@@ -11,7 +11,7 @@ With a master's degree under my belt, my enthusiasm lies in the realms of techno
 <p align="left">
 
 <a href="https://www.linkedin.com/in/vasudev67" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="http://vasudevdesai.com.s3-website-us-east-1.amazonaws.com/" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/icon-regform.png" alt="" height="30" /></a>
+<a href="https://sunnydesai67.github.io/" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/icon-regform.png" alt="" height="30" /></a>
 <a href="http://twitter.com/DSunny88" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.instagram.com/mr.sunnydesai67/" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/instagram.png" alt="" height="30" /></a>
 <a href="https://discord.gg/Ygfd9AVqwT" target="blank"><img align="center" src="https://github.com/SunnyDesai67/SunnyDesai67/blob/main/discord.png" height="30" alt="discord logo"/></a>
